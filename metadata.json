@@ -1,0 +1,8 @@
+{
+  "name": "השדה בהרדוף - חיטות מורשת",
+  "description": "עמוד נחיתה לגיוס תרומות עבור שדה חיטות המורשת הקדומות בהרדוף, פרויקט של יפתח ברקת.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
