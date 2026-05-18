@@ -202,7 +202,7 @@ export default function App() {
             className="text-center mb-12"
           >
             <h2 className="font-display text-3xl md:text-4xl font-black text-earth-900 mb-4 italic">הסיפור של השדה</h2>
-            <p className="text-earth-700 max-w-xl mx-auto">צפו ב-30 שניות של חיבור בין אדם, זרע ואדמה בשדה שבהרדוף.</p>
+            <p className="text-earth-700 max-w-xl mx-auto">צפו בקדימון של חיבור בין אדם, זרע ואדמה בשדה שבהרדוף.</p>
           </motion.div>
           
           <div className="relative aspect-video rounded-[3rem] overflow-hidden shadow-2xl group border-8 border-white">
